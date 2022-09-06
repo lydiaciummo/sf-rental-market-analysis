@@ -1,0 +1,50 @@
+  468  conda deactivate
+  469  conda activate dev
+  470  jupyter lab
+  471  conda deactivate
+  472  conda activate dev
+  473  jupyter lav
+  474  jupyter lab
+  475  conda deactivate
+  476  cd onedrive/boot_camp/challenges/module_6_challenge
+  477  git clone git@github.com:lydiaciummo/sf-rental-market-analysis.git
+  478  git status
+  479  cd sf-rental-market-analysis
+  480  git status
+  481  git add Images/
+  482  git add Resources/
+  483  git add san_francisco_housing.ipynb
+  484  git status
+  485  git commit -m "Added the starter code to the repository"
+  486  git push
+  487  conda activate dev
+  488  jupyter lab
+  489  conda deactivate
+  490  conda activate dev
+  491  jupyter lab
+  492  conda deactivate
+  493  cd onedrive/boot_camp/challenges/module_6_challenge/sf-rental-market-analysis
+  494  git status
+  495  git add san_francisco_housing.ipynb
+  496  git commit -m "Completed the code and visualizations for the notebook"
+  497  git push
+  498  conda activate dev
+  499  jupyter lab
+  500  conda deactivate
+  501  cd onedrive/boot_camp/challenges/module_6_challenge/sf-rental-market-analysis
+  502  git status
+  503  git add san_francisco_housing.ipynb
+  504  git status
+  505  git commit -m "Edited the markdown for the notebook"
+  506  git push
+  507  git status
+  508  git rm  Images/6-4-geoviews-plot.png
+  509  git status
+  510  git rm  Images/avg-sale-px-sq-foot-gross-rent.png
+  511  git rm  Images/pricing-info-by-neighborhood.png
+  512  git rm Images/zoomed-housing-units-by-year.png
+  513  git status
+  514  git add Images/
+  515  git add README.md
+  516  git status
+  517  history 50 > terminal_history.txt
